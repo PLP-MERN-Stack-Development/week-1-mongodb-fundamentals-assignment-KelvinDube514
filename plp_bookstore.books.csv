@@ -1,0 +1,30 @@
+_id,title,author,genre,published_year,price,in_stock,pages,publisher
+684605a5aff0e9b13f0b2883,Sample Book,John Doe,,,,,,
+684609a6af2bfe36be50eb67,The Great Gatsby,F. Scott Fitzgerald,Classic,1925,10.99,true,180,Charles Scribner's Sons
+684609a6af2bfe36be50eb68,To Kill a Mockingbird,Harper Lee,Classic,1960,12.5,true,281,J. B. Lippincott & Co.
+684609a6af2bfe36be50eb69,1984,George Orwell,Dystopian,1949,9.99,false,328,Secker & Warburg
+684609a6af2bfe36be50eb6a,Pride and Prejudice,Jane Austen,Romance,1813,8.75,true,279,"T. Egerton, Whitehall"
+684609a6af2bfe36be50eb6b,The Hobbit,J.R.R. Tolkien,Fantasy,1937,14.99,true,310,George Allen & Unwin
+684609a6af2bfe36be50eb6c,The Catcher in the Rye,J.D. Salinger,Coming-of-Age,1951,11.25,false,224,"Little, Brown and Company"
+684609a6af2bfe36be50eb6d,Brave New World,Aldous Huxley,Dystopian,1932,10.5,true,311,Chatto & Windus
+684609a6af2bfe36be50eb6e,The Lord of the Rings,J.R.R. Tolkien,Fantasy,1954,25,true,1178,George Allen & Unwin
+684609a6af2bfe36be50eb6f,Fahrenheit 451,Ray Bradbury,Dystopian,1953,9.5,true,194,Ballantine Books
+684609a6af2bfe36be50eb70,Moby Dick,Herman Melville,Adventure,1851,13.75,false,635,Harper & Brothers
+684609a6af2bfe36be50eb71,War and Peace,Leo Tolstoy,Historical Fiction,1869,18.99,true,1225,The Russian Messenger
+68460bcd98c1b2e06677d9d8,To Kill a Mockingbird,Harper Lee,Fiction,1960,12.99,true,336,J. B. Lippincott & Co.
+68460bcd98c1b2e06677d9d9,1984,George Orwell,Dystopian,1949,10.99,true,328,Secker & Warburg
+68460bcd98c1b2e06677d9da,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,9.99,true,180,Charles Scribner's Sons
+68460bcd98c1b2e06677d9db,Brave New World,Aldous Huxley,Dystopian,1932,11.5,false,311,Chatto & Windus
+68460bcd98c1b2e06677d9dc,The Hobbit,J.R.R. Tolkien,Fantasy,1937,14.99,true,310,George Allen & Unwin
+68460bcd98c1b2e06677d9dd,The Catcher in the Rye,J.D. Salinger,Fiction,1951,8.99,true,224,"Little, Brown and Company"
+68460bcd98c1b2e06677d9de,Pride and Prejudice,Jane Austen,Romance,1813,7.99,true,432,"T. Egerton, Whitehall"
+68460bcd98c1b2e06677d9df,The Lord of the Rings,J.R.R. Tolkien,Fantasy,1954,19.99,true,1178,Allen & Unwin
+68460bcd98c1b2e06677d9e0,Animal Farm,George Orwell,Political Satire,1945,8.5,false,112,Secker & Warburg
+68460bcd98c1b2e06677d9e1,The Alchemist,Paulo Coelho,Fiction,1988,10.99,true,197,HarperOne
+68460bcd98c1b2e06677d9e2,Moby Dick,Herman Melville,Adventure,1851,12.5,false,635,Harper & Brothers
+68460bcd98c1b2e06677d9e3,Wuthering Heights,Emily Brontë,Gothic Fiction,1847,9.99,true,342,Thomas Cautley Newby
+68460cf898c1b2e06677d9e4,The Midnight Library,Matt Haig,Fantasy,2020,15,true,304,Canongate Books
+68460cf898c1b2e06677d9e5,Circe,Madeline Miller,Mythology,2018,16.99,true,393,"Little, Brown and Company"
+68460cf898c1b2e06677d9e6,The Girl on the Train,Paula Hawkins,Thriller,2015,11.99,false,323,Riverhead Books
+68460cf898c1b2e06677d9e7,Ready Player One,Ernest Cline,Science Fiction,2011,13.5,true,384,Crown Publishing Group
+68460cf898c1b2e06677d9e8,Gone Girl,Gillian Flynn,Mystery,2012,10.5,true,415,Crown Publishing Group

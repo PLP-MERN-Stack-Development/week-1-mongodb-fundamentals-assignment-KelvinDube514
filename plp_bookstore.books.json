@@ -1,0 +1,371 @@
+[{
+  "_id": {
+    "$oid": "684605a5aff0e9b13f0b2883"
+  },
+  "title": "Sample Book",
+  "author": "John Doe"
+},
+{
+  "_id": {
+    "$oid": "684609a6af2bfe36be50eb67"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "genre": "Classic",
+  "published_year": 1925,
+  "price": 10.99,
+  "in_stock": true,
+  "pages": 180,
+  "publisher": "Charles Scribner's Sons"
+},
+{
+  "_id": {
+    "$oid": "684609a6af2bfe36be50eb68"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "genre": "Classic",
+  "published_year": 1960,
+  "price": 12.5,
+  "in_stock": true,
+  "pages": 281,
+  "publisher": "J. B. Lippincott & Co."
+},
+{
+  "_id": {
+    "$oid": "684609a6af2bfe36be50eb69"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "genre": "Dystopian",
+  "published_year": 1949,
+  "price": 9.99,
+  "in_stock": false,
+  "pages": 328,
+  "publisher": "Secker & Warburg"
+},
+{
+  "_id": {
+    "$oid": "684609a6af2bfe36be50eb6a"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "genre": "Romance",
+  "published_year": 1813,
+  "price": 8.75,
+  "in_stock": true,
+  "pages": 279,
+  "publisher": "T. Egerton, Whitehall"
+},
+{
+  "_id": {
+    "$oid": "684609a6af2bfe36be50eb6b"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "genre": "Fantasy",
+  "published_year": 1937,
+  "price": 14.99,
+  "in_stock": true,
+  "pages": 310,
+  "publisher": "George Allen & Unwin"
+},
+{
+  "_id": {
+    "$oid": "684609a6af2bfe36be50eb6c"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "genre": "Coming-of-Age",
+  "published_year": 1951,
+  "price": 11.25,
+  "in_stock": false,
+  "pages": 224,
+  "publisher": "Little, Brown and Company"
+},
+{
+  "_id": {
+    "$oid": "684609a6af2bfe36be50eb6d"
+  },
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "genre": "Dystopian",
+  "published_year": 1932,
+  "price": 10.5,
+  "in_stock": true,
+  "pages": 311,
+  "publisher": "Chatto & Windus"
+},
+{
+  "_id": {
+    "$oid": "684609a6af2bfe36be50eb6e"
+  },
+  "title": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "genre": "Fantasy",
+  "published_year": 1954,
+  "price": 25,
+  "in_stock": true,
+  "pages": 1178,
+  "publisher": "George Allen & Unwin"
+},
+{
+  "_id": {
+    "$oid": "684609a6af2bfe36be50eb6f"
+  },
+  "title": "Fahrenheit 451",
+  "author": "Ray Bradbury",
+  "genre": "Dystopian",
+  "published_year": 1953,
+  "price": 9.5,
+  "in_stock": true,
+  "pages": 194,
+  "publisher": "Ballantine Books"
+},
+{
+  "_id": {
+    "$oid": "684609a6af2bfe36be50eb70"
+  },
+  "title": "Moby Dick",
+  "author": "Herman Melville",
+  "genre": "Adventure",
+  "published_year": 1851,
+  "price": 13.75,
+  "in_stock": false,
+  "pages": 635,
+  "publisher": "Harper & Brothers"
+},
+{
+  "_id": {
+    "$oid": "684609a6af2bfe36be50eb71"
+  },
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "genre": "Historical Fiction",
+  "published_year": 1869,
+  "price": 18.99,
+  "in_stock": true,
+  "pages": 1225,
+  "publisher": "The Russian Messenger"
+},
+{
+  "_id": {
+    "$oid": "68460bcd98c1b2e06677d9d8"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "genre": "Fiction",
+  "published_year": 1960,
+  "price": 12.99,
+  "in_stock": true,
+  "pages": 336,
+  "publisher": "J. B. Lippincott & Co."
+},
+{
+  "_id": {
+    "$oid": "68460bcd98c1b2e06677d9d9"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "genre": "Dystopian",
+  "published_year": 1949,
+  "price": 10.99,
+  "in_stock": true,
+  "pages": 328,
+  "publisher": "Secker & Warburg"
+},
+{
+  "_id": {
+    "$oid": "68460bcd98c1b2e06677d9da"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "genre": "Fiction",
+  "published_year": 1925,
+  "price": 9.99,
+  "in_stock": true,
+  "pages": 180,
+  "publisher": "Charles Scribner's Sons"
+},
+{
+  "_id": {
+    "$oid": "68460bcd98c1b2e06677d9db"
+  },
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "genre": "Dystopian",
+  "published_year": 1932,
+  "price": 11.5,
+  "in_stock": false,
+  "pages": 311,
+  "publisher": "Chatto & Windus"
+},
+{
+  "_id": {
+    "$oid": "68460bcd98c1b2e06677d9dc"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "genre": "Fantasy",
+  "published_year": 1937,
+  "price": 14.99,
+  "in_stock": true,
+  "pages": 310,
+  "publisher": "George Allen & Unwin"
+},
+{
+  "_id": {
+    "$oid": "68460bcd98c1b2e06677d9dd"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "genre": "Fiction",
+  "published_year": 1951,
+  "price": 8.99,
+  "in_stock": true,
+  "pages": 224,
+  "publisher": "Little, Brown and Company"
+},
+{
+  "_id": {
+    "$oid": "68460bcd98c1b2e06677d9de"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "genre": "Romance",
+  "published_year": 1813,
+  "price": 7.99,
+  "in_stock": true,
+  "pages": 432,
+  "publisher": "T. Egerton, Whitehall"
+},
+{
+  "_id": {
+    "$oid": "68460bcd98c1b2e06677d9df"
+  },
+  "title": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "genre": "Fantasy",
+  "published_year": 1954,
+  "price": 19.99,
+  "in_stock": true,
+  "pages": 1178,
+  "publisher": "Allen & Unwin"
+},
+{
+  "_id": {
+    "$oid": "68460bcd98c1b2e06677d9e0"
+  },
+  "title": "Animal Farm",
+  "author": "George Orwell",
+  "genre": "Political Satire",
+  "published_year": 1945,
+  "price": 8.5,
+  "in_stock": false,
+  "pages": 112,
+  "publisher": "Secker & Warburg"
+},
+{
+  "_id": {
+    "$oid": "68460bcd98c1b2e06677d9e1"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "genre": "Fiction",
+  "published_year": 1988,
+  "price": 10.99,
+  "in_stock": true,
+  "pages": 197,
+  "publisher": "HarperOne"
+},
+{
+  "_id": {
+    "$oid": "68460bcd98c1b2e06677d9e2"
+  },
+  "title": "Moby Dick",
+  "author": "Herman Melville",
+  "genre": "Adventure",
+  "published_year": 1851,
+  "price": 12.5,
+  "in_stock": false,
+  "pages": 635,
+  "publisher": "Harper & Brothers"
+},
+{
+  "_id": {
+    "$oid": "68460bcd98c1b2e06677d9e3"
+  },
+  "title": "Wuthering Heights",
+  "author": "Emily Brontë",
+  "genre": "Gothic Fiction",
+  "published_year": 1847,
+  "price": 9.99,
+  "in_stock": true,
+  "pages": 342,
+  "publisher": "Thomas Cautley Newby"
+},
+{
+  "_id": {
+    "$oid": "68460cf898c1b2e06677d9e4"
+  },
+  "title": "The Midnight Library",
+  "author": "Matt Haig",
+  "genre": "Fantasy",
+  "published_year": 2020,
+  "price": 15,
+  "in_stock": true,
+  "pages": 304,
+  "publisher": "Canongate Books"
+},
+{
+  "_id": {
+    "$oid": "68460cf898c1b2e06677d9e5"
+  },
+  "title": "Circe",
+  "author": "Madeline Miller",
+  "genre": "Mythology",
+  "published_year": 2018,
+  "price": 16.99,
+  "in_stock": true,
+  "pages": 393,
+  "publisher": "Little, Brown and Company"
+},
+{
+  "_id": {
+    "$oid": "68460cf898c1b2e06677d9e6"
+  },
+  "title": "The Girl on the Train",
+  "author": "Paula Hawkins",
+  "genre": "Thriller",
+  "published_year": 2015,
+  "price": 11.99,
+  "in_stock": false,
+  "pages": 323,
+  "publisher": "Riverhead Books"
+},
+{
+  "_id": {
+    "$oid": "68460cf898c1b2e06677d9e7"
+  },
+  "title": "Ready Player One",
+  "author": "Ernest Cline",
+  "genre": "Science Fiction",
+  "published_year": 2011,
+  "price": 13.5,
+  "in_stock": true,
+  "pages": 384,
+  "publisher": "Crown Publishing Group"
+},
+{
+  "_id": {
+    "$oid": "68460cf898c1b2e06677d9e8"
+  },
+  "title": "Gone Girl",
+  "author": "Gillian Flynn",
+  "genre": "Mystery",
+  "published_year": 2012,
+  "price": 10.5,
+  "in_stock": true,
+  "pages": 415,
+  "publisher": "Crown Publishing Group"
+}]
